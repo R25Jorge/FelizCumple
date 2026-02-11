@@ -80,9 +80,9 @@ body {
 }
 
 .marco {
-  width: 50px;
-  height: 50px;
-  padding: 5px;
+  width: 100px;
+  height: 100px;
+  padding: 8px;
   background-color: #bb7d4e; 
   border: 5px solid #8a5e3c; 
   box-shadow: 0 4px 8px rgba(0,0,0,0.5);
